@@ -1,0 +1,1 @@
+export const LOCAL_NAME = 'profile'
